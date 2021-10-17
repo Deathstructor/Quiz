@@ -38,9 +38,6 @@ namespace Quiz
             for (var i = 0; i < fileRead.Length; i++)
             {
                 Random rdm = new Random();
-                int a = rdm.Next(1, 4);
-                int b = rdm.Next(1, 4);
-                int c = rdm.Next(1, 4);
 
                 Retry:
                     int next = rdm.Next(15);
@@ -56,7 +53,7 @@ namespace Quiz
 
                 questions[i] = fileRead[i].Split(";");
                 Console.WriteLine(questions[i][0]);
-                Console.WriteLine($"a) {questions[i][a]}     b) {questions[i][b]}     c) {questions[i][c]}");
+                Console.WriteLine($"a) {questions[i][1]}     b) {questions[i][2]}     c) {questions[i][3]}");
                 answerInput = Console.ReadLine();
 
                 if (answerInput == questions[i][1])
@@ -65,7 +62,7 @@ namespace Quiz
                 }
 
                 Console.WriteLine();
-                Console.WriteLine($"Your score is {score}.");
+                Console.WriteLine($"Your score is {score}");
                 Console.WriteLine();
                 Console.WriteLine();
 

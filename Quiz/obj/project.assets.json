@@ -8,19 +8,19 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\chastain.paul\\.nuget\\packages\\": {}
+    "C:\\Users\\paul\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\chastain.paul\\Documents\\Projects\\Spel\\Quiz\\Quiz\\Quiz.csproj",
+      "projectUniqueName": "C:\\Users\\paul\\Desktop\\Skola\\Programmering\\Quiz\\Quiz\\Quiz.csproj",
       "projectName": "Quiz",
-      "projectPath": "c:\\Users\\chastain.paul\\Documents\\Projects\\Spel\\Quiz\\Quiz\\Quiz.csproj",
-      "packagesPath": "C:\\Users\\chastain.paul\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\chastain.paul\\Documents\\Projects\\Spel\\Quiz\\Quiz\\obj\\",
+      "projectPath": "C:\\Users\\paul\\Desktop\\Skola\\Programmering\\Quiz\\Quiz\\Quiz.csproj",
+      "packagesPath": "C:\\Users\\paul\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\paul\\Desktop\\Skola\\Programmering\\Quiz\\Quiz\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\chastain.paul\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\paul\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
