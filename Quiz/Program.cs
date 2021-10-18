@@ -35,25 +35,37 @@ namespace Quiz
             string answerInput = "";
 
             List<int> randomQuestion = new List<int>();
+            List<int> randomAnswer = new List<int>();
             for (var i = 0; i < fileRead.Length; i++)
             {
                 Random rdm = new Random();
 
-                Retry:
-                    int next = rdm.Next(15);
-                    i = next;
+                RetryQ:
+                    int nextQ = rdm.Next(15);
+                    i = nextQ;
 
-                    if (randomQuestion.Contains(next))
+                    if (randomQuestion.Contains(nextQ))
                     {
-                        goto Retry;
+                        goto RetryQ;
                     } else
                     {
-                        randomQuestion.Add(next);
+                        randomQuestion.Add(nextQ);
                     }
+                
+                RetryA:
+                    int a = rdm.Next(1, 4);
+                    int b = rdm.Next(1, 4);
+                    int c = rdm.Next(1, 4);
+
+                    if (b == a || c == a || b == c)
+                    {
+                        goto RetryA;
+                    }
+                    
 
                 questions[i] = fileRead[i].Split(";");
                 Console.WriteLine(questions[i][0]);
-                Console.WriteLine($"a) {questions[i][1]}     b) {questions[i][2]}     c) {questions[i][3]}");
+                Console.WriteLine($"a) {questions[i][a]}     b) {questions[i][b]}     c) {questions[i][c]}");
                 answerInput = Console.ReadLine();
 
                 if (answerInput == questions[i][1])

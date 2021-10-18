@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\paul\\Desktop\\Skola\\Programmering\\Quiz\\Quiz\\Quiz.csproj": {}
+    "C:\\Users\\chastain.paul\\Documents\\Projects\\Spel\\Quiz\\Quiz-1\\Quiz\\Quiz.csproj": {}
   },
   "projects": {
-    "C:\\Users\\paul\\Desktop\\Skola\\Programmering\\Quiz\\Quiz\\Quiz.csproj": {
+    "C:\\Users\\chastain.paul\\Documents\\Projects\\Spel\\Quiz\\Quiz-1\\Quiz\\Quiz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\paul\\Desktop\\Skola\\Programmering\\Quiz\\Quiz\\Quiz.csproj",
+        "projectUniqueName": "C:\\Users\\chastain.paul\\Documents\\Projects\\Spel\\Quiz\\Quiz-1\\Quiz\\Quiz.csproj",
         "projectName": "Quiz",
-        "projectPath": "C:\\Users\\paul\\Desktop\\Skola\\Programmering\\Quiz\\Quiz\\Quiz.csproj",
-        "packagesPath": "C:\\Users\\paul\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\paul\\Desktop\\Skola\\Programmering\\Quiz\\Quiz\\obj\\",
+        "projectPath": "C:\\Users\\chastain.paul\\Documents\\Projects\\Spel\\Quiz\\Quiz-1\\Quiz\\Quiz.csproj",
+        "packagesPath": "C:\\Users\\chastain.paul\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\chastain.paul\\Documents\\Projects\\Spel\\Quiz\\Quiz-1\\Quiz\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\paul\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\chastain.paul\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
