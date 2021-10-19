@@ -13,8 +13,8 @@ namespace Quiz
             Console.WriteLine("Hello and welcome to this completely random quiz!");
             Console.WriteLine();
             Console.WriteLine("You will be given three alternatives for each question.");
-            Console.WriteLine("To choose your answer you need to typ in the letter next");
-            Console.WriteLine("to the alternative (A, B or C).");
+            Console.WriteLine("To choose your answer you need to type in the letter next");
+            Console.WriteLine("to the alternative (A, B or C), or the full answer.");
             Console.WriteLine();
             Console.WriteLine("Good luck! :)");
             Console.WriteLine();
@@ -66,11 +66,30 @@ namespace Quiz
                 questions[i] = fileRead[i].Split(";");
                 Console.WriteLine(questions[i][0]);
                 Console.WriteLine($"a) {questions[i][a]}     b) {questions[i][b]}     c) {questions[i][c]}");
-                answerInput = Console.ReadLine();
+                answerInput = Console.ReadLine().ToLower();
+                Console.WriteLine();
+                Console.WriteLine();
+                Console.WriteLine();
 
-                if (answerInput == questions[i][1])
+                if (questions[i][a] == questions[i][1] && answerInput == "a")
                 {
+                    Console.WriteLine("Correct answer!");
                     score++;
+                } else if(questions[i][b] == questions[i][1] && answerInput == "b")
+                {
+                    Console.WriteLine("Correct answer!");
+                    score++;
+                } else if (questions[i][c] == questions[i][1] && answerInput == "c")
+                {
+                    Console.WriteLine("Correct answer!");
+                    score++;
+                } else if(answerInput == questions[i][1])
+                {
+                    Console.WriteLine("Correct answer!");
+                    score++;
+                } else
+                {
+                    Console.WriteLine("Wrong answer!");
                 }
 
                 Console.WriteLine();

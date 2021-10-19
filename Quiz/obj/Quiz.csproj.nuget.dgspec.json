@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\chastain.paul\\Documents\\Projects\\Spel\\Quiz\\Quiz-1\\Quiz\\Quiz.csproj": {}
+    "C:\\Users\\chastain.paul\\Documents\\Projects\\Spel\\Quiz\\Quiz\\Quiz.csproj": {}
   },
   "projects": {
-    "C:\\Users\\chastain.paul\\Documents\\Projects\\Spel\\Quiz\\Quiz-1\\Quiz\\Quiz.csproj": {
+    "C:\\Users\\chastain.paul\\Documents\\Projects\\Spel\\Quiz\\Quiz\\Quiz.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\chastain.paul\\Documents\\Projects\\Spel\\Quiz\\Quiz-1\\Quiz\\Quiz.csproj",
+        "projectUniqueName": "C:\\Users\\chastain.paul\\Documents\\Projects\\Spel\\Quiz\\Quiz\\Quiz.csproj",
         "projectName": "Quiz",
-        "projectPath": "C:\\Users\\chastain.paul\\Documents\\Projects\\Spel\\Quiz\\Quiz-1\\Quiz\\Quiz.csproj",
+        "projectPath": "C:\\Users\\chastain.paul\\Documents\\Projects\\Spel\\Quiz\\Quiz\\Quiz.csproj",
         "packagesPath": "C:\\Users\\chastain.paul\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\chastain.paul\\Documents\\Projects\\Spel\\Quiz\\Quiz-1\\Quiz\\obj\\",
+        "outputPath": "C:\\Users\\chastain.paul\\Documents\\Projects\\Spel\\Quiz\\Quiz\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\chastain.paul\\AppData\\Roaming\\NuGet\\NuGet.Config"
