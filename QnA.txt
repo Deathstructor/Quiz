@@ -4,7 +4,7 @@ How many ribs are in a human body?;24;16;32
 Which planet is the hottest in the solar system?;Venus;Mercury;Jupiter
 How many hearts does an octopus have?;Three;One;Five
 The Statue of Liberty was given to the US by which country?;France;Germany;Norway
-When did the Cold War end?;1847;1945;1989
+When did the Cold War end?;1989;1945;1847
 What is the most common letter in the English alphabet?;E;A;S
 Saudi Arabia imports camels from what country?;Australia;Libya;Yemen
 What city did Starbucks open its first store in 1971?;Seattle;Florida;Dallas
@@ -14,3 +14,17 @@ What is the largest planet in our solar system?;Jupiter;Saturn;Neptune
 What color dresses do Chinese women traditionally wear on their wedding day?;Red;Green;Blue
 What gas makes soda bubbly?;Carbon Dioxide;Methane;Hydrogen
 What particle in an atom has a positive charge?;Proton;Neutron;Electron
+In which European city would you find Orly airport?;Paris;London;Madrid
+What is the world’s biggest island?;Greenland;Madagascar;Tasmania
+What color eyes do most humans have?;Brown;Blue;Green
+Which country produces the most coffee in the world?;Brazil;India;South Africa
+Which two countries share the longest international border?;Canada and the USA;China and Mongolia;Russia and Kazakhstan
+How many eyes does a bee have?;Five;Two;One
+What was the name of the rock band formed by Jimmy Page?;Led Zeppelin;Deep Purple;Scorpions
+Water has a pH level of around?;7;11;0
+Where did Heineken beer originate?;The Netherlands;Germany;Austria
+What is the first element on the Periodic Table?;Hydrogen;Helium;Oxygen
+What does a Scoville unit measure?;Spiciness;Earthquake strength;Radiation
+What is an ice hockey puck made from?;Rubber;Plastic;Copper
+How many red stripes are there on the American flag?;7;6;13
+What is the only metal that is a liquid at normal atmospheric pressure and temperature?;Mercury;Iridium;Tallium
